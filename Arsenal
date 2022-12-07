@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hashhi/Arsenal-/main/Arsenal",true))()
